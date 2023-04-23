@@ -1,0 +1,10 @@
+a1=open('count.txt','w')
+a1.write('hello')
+a1.close()
+a=open('count.txt','r')
+b=open('hello.txt','w')
+l=a.readline()
+while (l!=''):
+    b.write(l)
+    l=a.readline()
+print('copied')
