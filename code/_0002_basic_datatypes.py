@@ -1,8 +1,10 @@
-# Filename: _0002_basic_datatypes.py
-# Title: Basic datatypes in python
-# Author: Raghava | GitHub : @raghavtwenty
-# Date Created: July 1, 2024 | Last Updated: July 1, 2024
-# Language: Python | Version: 3.12.3, 64-bit
+"""
+Filename: _0002_basic_datatypes.py
+Title: Basic datatypes in python
+Author: Raghava | GitHub : @raghavtwenty
+Date Created: July 1, 2024 | Last Updated: July 1, 2024
+Language: Python | Version: 3.12.3, 64-bit
+"""
 
 # = Assignment 
 
